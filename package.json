@@ -1,0 +1,4 @@
+{
+  "name": "monorepo-on-express",
+  "packageManager": "yarn@4.1.1"
+}
